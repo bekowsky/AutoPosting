@@ -1,0 +1,15 @@
+C:\Users\Xiaomi\source\repos\AutoPosting\WordService\bin\WordService.dll.config
+C:\Users\Xiaomi\source\repos\AutoPosting\WordService\bin\WordService.dll
+C:\Users\Xiaomi\source\repos\AutoPosting\WordService\bin\WordService.pdb
+C:\Users\Xiaomi\source\repos\AutoPosting\WordService\obj\Debug\WordService.csprojAssemblyReference.cache
+C:\Users\Xiaomi\source\repos\AutoPosting\WordService\obj\Debug\WordService.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\source\repos\AutoPosting\WordService\obj\Debug\WordService.dll
+C:\Users\Xiaomi\source\repos\AutoPosting\WordService\obj\Debug\WordService.pdb
+C:\Users\Xiaomi\source\repos\AutoPosting\WordService\bin\EntityFramework.dll
+C:\Users\Xiaomi\source\repos\AutoPosting\WordService\bin\EntityFramework.SqlServer.dll
+C:\Users\Xiaomi\source\repos\AutoPosting\WordService\bin\HtmlAgilityPack.dll
+C:\Users\Xiaomi\source\repos\AutoPosting\WordService\bin\EntityFramework.xml
+C:\Users\Xiaomi\source\repos\AutoPosting\WordService\bin\EntityFramework.SqlServer.xml
+C:\Users\Xiaomi\source\repos\AutoPosting\WordService\bin\HtmlAgilityPack.pdb
+C:\Users\Xiaomi\source\repos\AutoPosting\WordService\bin\HtmlAgilityPack.xml
+C:\Users\Xiaomi\source\repos\AutoPosting\WordService\obj\Debug\WordService.csproj.CopyComplete

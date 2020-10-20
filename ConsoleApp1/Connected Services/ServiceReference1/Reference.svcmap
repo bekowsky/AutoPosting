@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="819abb88-582e-496a-bc47-1b0b67957804" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:50953/ServiceImg.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ServiceImg.xsd" MetadataType="Schema" ID="4370dfaa-45bb-436b-8e64-f168670c6455" SourceId="1" SourceUrl="http://localhost:50953/ServiceImg.svc?xsd=xsd0" />
+    <MetadataFile FileName="ServiceImg.wsdl" MetadataType="Wsdl" ID="326f702e-0abb-4810-b872-ba5a50bb9aed" SourceId="1" SourceUrl="http://localhost:50953/ServiceImg.svc?wsdl" />
+    <MetadataFile FileName="ServiceImg.disco" MetadataType="Disco" ID="a9bf9ee9-8cc9-45eb-9d98-320cca15ab47" SourceId="1" SourceUrl="http://localhost:50953/ServiceImg.svc?disco" />
+    <MetadataFile FileName="ServiceImg1.xsd" MetadataType="Schema" ID="9b8e2347-7aa5-42c2-a488-48c009a6aeef" SourceId="1" SourceUrl="http://localhost:50953/ServiceImg.svc?xsd=xsd2" />
+    <MetadataFile FileName="ServiceImg2.xsd" MetadataType="Schema" ID="2e2d87ee-2b5f-4e2d-a696-0eb6951b77a9" SourceId="1" SourceUrl="http://localhost:50953/ServiceImg.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

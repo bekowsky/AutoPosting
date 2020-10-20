@@ -1,0 +1,7 @@
+C:\Users\Xiaomi\source\repos\AutoPosting\AutoPosting\bin\AutoPosting.dll.config
+C:\Users\Xiaomi\source\repos\AutoPosting\AutoPosting\bin\AutoPosting.dll
+C:\Users\Xiaomi\source\repos\AutoPosting\AutoPosting\bin\AutoPosting.pdb
+C:\Users\Xiaomi\source\repos\AutoPosting\AutoPosting\obj\Debug\AutoPosting.csprojAssemblyReference.cache
+C:\Users\Xiaomi\source\repos\AutoPosting\AutoPosting\obj\Debug\AutoPosting.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\source\repos\AutoPosting\AutoPosting\obj\Debug\AutoPosting.dll
+C:\Users\Xiaomi\source\repos\AutoPosting\AutoPosting\obj\Debug\AutoPosting.pdb

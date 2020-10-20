@@ -1,0 +1,13 @@
+C:\Users\Xiaomi\source\repos\AutoPosting\ImageService\bin\ImageService.dll.config
+C:\Users\Xiaomi\source\repos\AutoPosting\ImageService\bin\ImageService.dll
+C:\Users\Xiaomi\source\repos\AutoPosting\ImageService\bin\ImageService.pdb
+C:\Users\Xiaomi\source\repos\AutoPosting\ImageService\bin\HtmlAgilityPack.dll
+C:\Users\Xiaomi\source\repos\AutoPosting\ImageService\bin\Newtonsoft.Json.dll
+C:\Users\Xiaomi\source\repos\AutoPosting\ImageService\bin\HtmlAgilityPack.pdb
+C:\Users\Xiaomi\source\repos\AutoPosting\ImageService\bin\HtmlAgilityPack.xml
+C:\Users\Xiaomi\source\repos\AutoPosting\ImageService\bin\Newtonsoft.Json.xml
+C:\Users\Xiaomi\source\repos\AutoPosting\ImageService\obj\Debug\ImageService.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\source\repos\AutoPosting\ImageService\obj\Debug\ImageService.csproj.CopyComplete
+C:\Users\Xiaomi\source\repos\AutoPosting\ImageService\obj\Debug\ImageService.dll
+C:\Users\Xiaomi\source\repos\AutoPosting\ImageService\obj\Debug\ImageService.pdb
+C:\Users\Xiaomi\source\repos\AutoPosting\ImageService\obj\Debug\ImageService.csprojAssemblyReference.cache

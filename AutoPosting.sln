@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageService", "ImageService\ImageService.csproj", "{926AFC06-5A26-440E-A86B-83662A9EDC0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{D049F147-D6AE-42BB-9E52-9C177716FD81}"
+	ProjectSection(ProjectDependencies) = postProject
+		{926AFC06-5A26-440E-A86B-83662A9EDC0B} = {926AFC06-5A26-440E-A86B-83662A9EDC0B}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordService", "WordService\WordService.csproj", "{732EDAEB-E349-4EE4-B984-FAA7C15B75A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VkService", "VkService\VkService.csproj", "{852EA56A-D889-4D8A-958C-30C99D283BD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PictureService", "PictureService\PictureService.csproj", "{A42D572D-2081-4905-B9B0-2E5249B06F0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MasterServcie", "MasterServcie\MasterServcie.csproj", "{8AE731A3-C6BD-47AE-AE6F-DCC9FF5E29D0}"
+	ProjectSection(ProjectDependencies) = postProject
+		{926AFC06-5A26-440E-A86B-83662A9EDC0B} = {926AFC06-5A26-440E-A86B-83662A9EDC0B}
+		{A42D572D-2081-4905-B9B0-2E5249B06F0F} = {A42D572D-2081-4905-B9B0-2E5249B06F0F}
+		{852EA56A-D889-4D8A-958C-30C99D283BD1} = {852EA56A-D889-4D8A-958C-30C99D283BD1}
+		{732EDAEB-E349-4EE4-B984-FAA7C15B75A5} = {732EDAEB-E349-4EE4-B984-FAA7C15B75A5}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{926AFC06-5A26-440E-A86B-83662A9EDC0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{926AFC06-5A26-440E-A86B-83662A9EDC0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{926AFC06-5A26-440E-A86B-83662A9EDC0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{926AFC06-5A26-440E-A86B-83662A9EDC0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D049F147-D6AE-42BB-9E52-9C177716FD81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D049F147-D6AE-42BB-9E52-9C177716FD81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D049F147-D6AE-42BB-9E52-9C177716FD81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D049F147-D6AE-42BB-9E52-9C177716FD81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{732EDAEB-E349-4EE4-B984-FAA7C15B75A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{732EDAEB-E349-4EE4-B984-FAA7C15B75A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{732EDAEB-E349-4EE4-B984-FAA7C15B75A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{732EDAEB-E349-4EE4-B984-FAA7C15B75A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{852EA56A-D889-4D8A-958C-30C99D283BD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{852EA56A-D889-4D8A-958C-30C99D283BD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{852EA56A-D889-4D8A-958C-30C99D283BD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{852EA56A-D889-4D8A-958C-30C99D283BD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A42D572D-2081-4905-B9B0-2E5249B06F0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A42D572D-2081-4905-B9B0-2E5249B06F0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A42D572D-2081-4905-B9B0-2E5249B06F0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A42D572D-2081-4905-B9B0-2E5249B06F0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AE731A3-C6BD-47AE-AE6F-DCC9FF5E29D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AE731A3-C6BD-47AE-AE6F-DCC9FF5E29D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AE731A3-C6BD-47AE-AE6F-DCC9FF5E29D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AE731A3-C6BD-47AE-AE6F-DCC9FF5E29D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5960A08F-AD38-408B-B2B5-16AFB99D955F}
+	EndGlobalSection
+EndGlobal

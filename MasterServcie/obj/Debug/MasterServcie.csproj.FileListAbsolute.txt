@@ -1,0 +1,6 @@
+C:\Users\Xiaomi\source\repos\AutoPosting\MasterServcie\bin\MasterServcie.dll.config
+C:\Users\Xiaomi\source\repos\AutoPosting\MasterServcie\bin\MasterServcie.dll
+C:\Users\Xiaomi\source\repos\AutoPosting\MasterServcie\bin\MasterServcie.pdb
+C:\Users\Xiaomi\source\repos\AutoPosting\MasterServcie\obj\Debug\MasterServcie.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\source\repos\AutoPosting\MasterServcie\obj\Debug\MasterServcie.dll
+C:\Users\Xiaomi\source\repos\AutoPosting\MasterServcie\obj\Debug\MasterServcie.pdb

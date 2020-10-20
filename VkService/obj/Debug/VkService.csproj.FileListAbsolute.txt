@@ -1,0 +1,10 @@
+C:\Users\Xiaomi\source\repos\AutoPosting\VkService\bin\VkService.dll.config
+C:\Users\Xiaomi\source\repos\AutoPosting\VkService\bin\VkService.dll
+C:\Users\Xiaomi\source\repos\AutoPosting\VkService\bin\VkService.pdb
+C:\Users\Xiaomi\source\repos\AutoPosting\VkService\bin\Newtonsoft.Json.dll
+C:\Users\Xiaomi\source\repos\AutoPosting\VkService\bin\Newtonsoft.Json.xml
+C:\Users\Xiaomi\source\repos\AutoPosting\VkService\obj\Debug\VkService.csprojAssemblyReference.cache
+C:\Users\Xiaomi\source\repos\AutoPosting\VkService\obj\Debug\VkService.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\source\repos\AutoPosting\VkService\obj\Debug\VkService.csproj.CopyComplete
+C:\Users\Xiaomi\source\repos\AutoPosting\VkService\obj\Debug\VkService.dll
+C:\Users\Xiaomi\source\repos\AutoPosting\VkService\obj\Debug\VkService.pdb

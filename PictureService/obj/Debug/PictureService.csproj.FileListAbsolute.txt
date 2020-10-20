@@ -1,0 +1,7 @@
+C:\Users\Xiaomi\source\repos\AutoPosting\PictureService\bin\PictureService.dll.config
+C:\Users\Xiaomi\source\repos\AutoPosting\PictureService\bin\PictureService.dll
+C:\Users\Xiaomi\source\repos\AutoPosting\PictureService\bin\PictureService.pdb
+C:\Users\Xiaomi\source\repos\AutoPosting\PictureService\obj\Debug\PictureService.csprojAssemblyReference.cache
+C:\Users\Xiaomi\source\repos\AutoPosting\PictureService\obj\Debug\PictureService.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\source\repos\AutoPosting\PictureService\obj\Debug\PictureService.dll
+C:\Users\Xiaomi\source\repos\AutoPosting\PictureService\obj\Debug\PictureService.pdb
